@@ -3,7 +3,7 @@
 </p>  
 
 
-<h1 align="center">Karoshi Systems</h1>
-<h3 align="center">Developed with care</h3>
+<h1 align="center">AthlasIO</h1>
+<h3 align="center">PER ASPERA AD ASTRA</h3>
 
-<h4 align="center">https://karoshi-systems.github.io/</h4>
+<h4 align="center">https://athlas.io//</h4>
