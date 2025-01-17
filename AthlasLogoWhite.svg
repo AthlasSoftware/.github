@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_1" data-name="Lager 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="-68.19" y="855.65" width="1557.45" height="287.23" rx="143.62" ry="143.62" transform="translate(-510.12 1114.97) rotate(-60)"/>
+  <rect class="cls-1" x="254.14" y="1407.16" width="1131.34" height="287.23" rx="143.62" ry="143.62"/>
+  <rect class="cls-1" x="676.19" y="673.12" width="1131.34" height="287.23" rx="143.62" ry="143.62" transform="translate(1155.48 2300.59) rotate(-120)"/>
+  <rect class="cls-1" x="1463.43" y="1407.16" width="287.23" height="287.23" rx="143.62" ry="143.62"/>
+</svg>
