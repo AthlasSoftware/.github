@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" src="https://github.com/AthlasSoftware/.github/blob/main/LogotypeNOBG.svg" />
+  <img width="350" src="https://github.com/AthlasSoftware/.github/blob/main/AthlasLogoWhite.svg" />
 </p>  
 
 
